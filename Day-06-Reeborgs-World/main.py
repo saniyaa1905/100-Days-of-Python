@@ -1,5 +1,6 @@
 # ==========================================
 # REEBORG'S WORLD CHALLENGES
+# These challenges were performed in the Reeborg's World environment.
 # ==========================================
 
 
